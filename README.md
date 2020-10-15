@@ -10,8 +10,8 @@ This project was made by Avanti Bhandarkar (C008), Aditya Kamath (C021) and Chet
 
 | Contents  | Location |   
 |---|---|
-| Dataset  | [KNN-NB-classifiers/data/dataset.csv](https://github.com/avanti-bhandarkar/KNN-NB-classifiers/blob/master/data/attributes.txt)  |   
-| Column description for dataset  | [KNN-NB-classifiers/data/attributes.txt](https://github.com/avanti-bhandarkar/KNN-NB-classifiers/blob/master/data/data.csv)  |  
+| Dataset  | [KNN-NB-classifiers/data/dataset.csv](https://github.com/avanti-bhandarkar/KNN-NB-classifiers/blob/master/data/data.csv)  |   
+| Column description for dataset  | [KNN-NB-classifiers/data/attributes.txt](https://github.com/avanti-bhandarkar/KNN-NB-classifiers/blob/master/data/attributes.txt)  |  
 | Avanti's scripts  | KNN-NB-classifiers/scripts/avanti |  
 | Aditya's scripts  | KNN-NB-classifiers/scripts/aditya  |  
 | Chetans's scripts  |  KNN-NB-classifiers/scripts/chetan |  
